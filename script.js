@@ -1,6 +1,6 @@
 // Configurations
 const FRAME_COUNT = 80;
-const IMAGE_PATH_PREFIX = './assets/bmw seq 2/nznvwry4v1rmt0cwn2d8gj8cvw_result__';
+const IMAGE_PATH_PREFIX = '/assets/bmw seq 2/nznvwry4v1rmt0cwn2d8gj8cvw_result__';
 const IMAGE_EXTENSION = '.jpg';
 
 // State
